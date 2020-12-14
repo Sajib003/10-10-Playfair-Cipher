@@ -1,6 +1,6 @@
 # 10-10-Playfair-Cipher
 
-10*10 Playfair Cipher for solving the problem of default playfair cipher.
+10*10 Playfair Cipher for solving the problem of default playfair cipher using Python.
 
 1. Distingush betwwen I and J.
 2. Can add Uppercase, Lowercase, Number, Punctuation and some special characters.
